@@ -1,0 +1,8 @@
+{
+  "name": "Ad College",
+  "description": "A professional platform for brands and creators to collaborate on sponsorship campaigns with transparency and trust.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
